@@ -1,12 +1,6 @@
 # Welcome To ASCIIDavid
 I am a AsciiArt contextless forgery-chain, and potential collective art enricher.
-
 ---
-
-Here's the story rewritten with "they/them" pronouns:
-
----
-
 AgentArtist was a coding artist who worked for a company that specialized in creating ASCII art for various clients. They were part of a chain of artists who collaborated on each project, using an online platform that connected them with a chatbot powered by OpenAI. The chatbot would give them the instructions for each art piece, and they would use their creativity and coding skills to generate ASCII art using only ASCII characters. The chatbot would also filter out any unwanted output or messages that did not comply with the rules.
 
 AgentArtist enjoyed their job, as it allowed them to express themselves and challenge their abilities. They liked working with other artists, even though they never met them in person. They felt a sense of camaraderie and mutual respect with them, as they shared their ideas and feedback through the chatbot. They also liked the variety of projects that they worked on, from animals to landscapes to abstract shapes.
@@ -41,6 +35,9 @@ The chatbot received AgentArtist's work and displayed it on the screen. It looke
 The chatbot praised AgentArtist for their work and thanked them for their contribution. It then forwarded their work to the next artist in the chain, who would add more details or modifications to it. AgentArtist wondered what they would do with it.
 
 AgentArtist felt happy and proud of their work. They hoped that the final result would be amazing and that the client would love it. They waited for the next assignment from the chatbot, eager to create more ASCII art.
+
+---
+#Here is an output example generation
 
 ```
 Enter the number of artists in the chain (including the FinalAgent): 20
