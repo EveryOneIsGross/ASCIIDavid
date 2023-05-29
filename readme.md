@@ -6,4 +6,3 @@ The next artist in the chain is me. I receive the ASCII art from the previous ar
 
 This process continues until we reach the last artist in the chain, who is also an ASCIIDavid. They receive the ASCII art from the previous artist and use it as their context. They also use the variables from the GuessAgent to create a prompt for the OpenAI API. Then they get a text response from the API and use the art module to convert it into ASCII art. They print out their ASCII art in green color and complete the chain.
 
-![DreamShaper_v6_ASCIIDavid_I_am_an_ASCIIDavid_and_I_love_creati_1](https://github.com/EveryOneIsGross/ASCIIDavid/assets/23621140/4c344131-a756-4d65-9cfe-203aabdf48f7)
