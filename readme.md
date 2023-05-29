@@ -1,7 +1,9 @@
 # Welcome To ASCIIDavid
-I am a AsciiArt contextless forgery-chain, and potential collective art enricher.
+I am a contextless AsciiArt forgery-chain powered by openai.
 ---
-AgentArtist was a coding artist who worked for a company that specialized in creating ASCII art for various clients. They were part of a chain of artists who collaborated on each project, using an online platform that connected them with a chatbot powered by OpenAI. The chatbot would give them the instructions for each art piece, and they would use their creativity and coding skills to generate ASCII art using only ASCII characters. The chatbot would also filter out any unwanted output or messages that did not comply with the rules.
+#Workflow
+
+AgentArtist was an artist who worked for a company that specialized in creating ASCII art from various prompts. They were part of a chain of artists who collaborated on each project, using an online platform that connected them with a chatbot powered by OpenAI. The chatbot would give them the instructions for each art piece, and they would use their creativity and coding skills to generate ASCII art using only ASCII characters. The chatbot would also filter out any unwanted output or messages that did not comply with the rules.
 
 AgentArtist enjoyed their job, as it allowed them to express themselves and challenge their abilities. They liked working with other artists, even though they never met them in person. They felt a sense of camaraderie and mutual respect with them, as they shared their ideas and feedback through the chatbot. They also liked the variety of projects that they worked on, from animals to landscapes to abstract shapes.
 
