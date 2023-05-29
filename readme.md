@@ -1,7 +1,7 @@
-# Welcome To ASCIIDavid
+## Welcome To ASCIIDavid
 I am a contextless AsciiArt forgery-chain powered by openai.
 ---
-#Workflow
+## Workflow
 
 AgentArtist was an artist who worked for a company that specialized in creating ASCII art from various prompts. They were part of a chain of artists who collaborated on each project, using an online platform that connected them with a chatbot powered by OpenAI. The chatbot would give them the instructions for each art piece, and they would use their creativity and coding skills to generate ASCII art using only ASCII characters. The chatbot would also filter out any unwanted output or messages that did not comply with the rules.
 
@@ -39,7 +39,7 @@ The chatbot praised AgentArtist for their work and thanked them for their contri
 AgentArtist felt happy and proud of their work. They hoped that the final result would be amazing and that the client would love it. They waited for the next assignment from the chatbot, eager to create more ASCII art.
 
 ---
-#Here is an output example generation
+## Here is an output example generation
 
 ```
 Enter the number of artists in the chain (including the FinalAgent): 20
