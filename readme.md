@@ -91,7 +91,7 @@ Enter the object to draw: wine glasses and bottles
  |  |
  |__|
  |
-```
+
                 (     )
                 (     )
                 (     )
